@@ -33,8 +33,8 @@ Full scale in [`palette.json`](./palette.json).
 
 | App        | File                            | Status |
 |------------|---------------------------------|--------|
-| Alacritty  | `themes/alacritty.toml`         | ✓      |
-| Polybar    | `themes/polybar.ini`            | ✓      |
+| Alacritty  | `ports/alacritty.toml`         | ✓      |
+| Polybar    | `ports/polybar.ini`            | ✓      |
 
 ---
 
