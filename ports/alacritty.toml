@@ -1,0 +1,46 @@
+# Monk — alacritty theme
+# https://github.com/yourusername/monk
+
+[colors.primary]
+background = '#181616'
+foreground = '#c5c9c5'
+
+[colors.cursor]
+text   = '#181616'
+cursor = '#f0f2f0'
+
+[colors.vi_mode_cursor]
+text   = '#181616'
+cursor = '#dcdedd'
+
+[colors.selection]
+text       = '#c5c9c5'
+background = '#2e2c2c'
+
+[colors.search.matches]
+foreground = '#181616'
+background = '#888785'
+
+[colors.search.focused_match]
+foreground = '#181616'
+background = '#c5c9c5'
+
+[colors.normal]
+black   = '#1e1c1c'
+red     = '#716f6e'
+green   = '#888785'
+yellow  = '#9e9d9a'
+blue    = '#b4b3af'
+magenta = '#5c5a59'
+cyan    = '#4a4847'
+white   = '#c5c9c5'
+
+[colors.bright]
+black   = '#3a3838'
+red     = '#888785'
+green   = '#9e9d9a'
+yellow  = '#b4b3af'
+blue    = '#dcdedd'
+magenta = '#716f6e'
+cyan    = '#5c5a59'
+white   = '#f0f2f0'

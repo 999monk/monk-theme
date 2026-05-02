@@ -1,0 +1,48 @@
+{
+  "name": "monk-theme",
+  "description": "A monochromatic dark theme. No color, no noise — just clarity.",
+  "version": "1.0.0",
+  "author": "",
+  "license": "MIT",
+  "variants": {
+    "dark": {
+      "meta": {
+        "background": "#181616",
+        "foreground": "#c5c9c5"
+      },
+      "scale": {
+        "gray-950": "#0e0d0d",
+        "gray-900": "#1e1c1c",
+        "gray-850": "#252323",
+        "gray-800": "#2e2c2c",
+        "gray-750": "#3a3838",
+        "gray-700": "#4a4847",
+        "gray-650": "#5c5a59",
+        "gray-600": "#716f6e",
+        "gray-550": "#888785",
+        "gray-500": "#9e9d9a",
+        "gray-450": "#b4b3af",
+        "gray-350": "#d0d3d0",
+        "gray-300": "#dcdedd",
+        "gray-200": "#e7e9e7",
+        "gray-100": "#f0f2f0",
+        "gray-50": "#f8faf8"
+      },
+      "roles": {
+        "bg": "#181616",
+        "bg-panel": "#1e1c1c",
+        "bg-module": "#2e2c2c",
+        "bg-alt": "#3a3838",
+        "border": "#4a4847",
+        "dim": "#5c5a59",
+        "muted": "#716f6e",
+        "subtle": "#888785",
+        "mid": "#9e9d9a",
+        "fg-soft": "#b4b3af",
+        "fg": "#c5c9c5",
+        "fg-bright": "#dcdedd",
+        "fg-cursor": "#f0f2f0"
+      }
+    }
+  }
+}
