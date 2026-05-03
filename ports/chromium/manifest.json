@@ -1,0 +1,41 @@
+{
+  "manifest_version": 3,
+  "name": "Monk",
+  "version": "1.0.0",
+  "description": "A monochromatic dark theme. No color, no noise — just clarity.",
+  "icons": {
+    "16":  "images/icon_16.png",
+    "48":  "images/icon_48.png",
+    "128": "images/icon_128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame":                   [24, 22, 22],
+      "frame_inactive":          [20, 18, 18],
+      "frame_incognito":         [20, 18, 18],
+      "toolbar":                 [30, 28, 28],
+      "tab_background_text":     [197, 201, 197],
+      "tab_text":                [197, 201, 197],
+      "background_tab_text":     [113, 111, 110],
+      "bookmark_text":           [197, 201, 197],
+      "ntp_background":          [24, 22, 22],
+      "ntp_text":                [197, 201, 197],
+      "ntp_link":                [180, 179, 175],
+      "ntp_header":              [30, 28, 28],
+      "button_background":       [46, 44, 44],
+      "omnibox_background":      [30, 28, 28],
+      "omnibox_text":            [197, 201, 197]
+    },
+    "tints": {
+      "buttons":                 [0.0, 0.0, 0.75],
+      "frame":                   [0.0, 0.0, 0.10],
+      "frame_inactive":          [0.0, 0.0, 0.08],
+      "background_tab":          [0.0, 0.0, 0.15]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat":    "no-repeat",
+      "ntp_logo_alternate":       1
+    }
+  }
+}
